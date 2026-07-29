@@ -180,7 +180,3 @@ more important outcome of this project is the **disciplined process**:
 - Comparing many algorithms systematically rather than assuming one is best
 - Reporting a single, honest final evaluation on a held-out test set
 
-
-## 👤 Author
-
-*(your name)* — [LinkedIn](#) · [GitHub](#) · [Portfolio](#)
