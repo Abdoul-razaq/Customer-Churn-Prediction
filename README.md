@@ -9,8 +9,8 @@ handling, model benchmarking, hyperparameter tuning, and business-driven model s
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-📓 [View the full notebook](https://github.com/<your-username>/customer-churn-prediction/blob/main/Customer_Churn_Prediction.ipynb)
-[![Open In Colab](https://colab.research.google.com/drive/144sqx8HxYM3pTmiKlxJbWgVwZpK4EWGz?usp=sharing )
+📓 [View the full notebook](https://github.com/Abdoul-razaq/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/144sqx8HxYM3pTmiKlxJbWgVwZpK4EWGz?usp=sharing)
 ---
 
 ##  Project Overview
