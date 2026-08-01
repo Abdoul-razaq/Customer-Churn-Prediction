@@ -11,7 +11,7 @@ handling, model benchmarking, hyperparameter tuning, and business-driven model s
 
 📓 [View the full notebook](https://github.com/Abdoul-razaq/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb)
 
-**[Run it yourself on Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/144sqx8HxYM3pTmiKlxJbWgVwZpK4EWGz?usp=sharing)**
+**[Run it yourself on Google Colab](https://colab.research.google.com/drive/144sqx8HxYM3pTmiKlxJbWgVwZpK4EWGz?usp=sharing)**
 ##  Project Overview
 
 Each row in this dataset represents a **telecom customer**. Given information about a customer —
